@@ -6,7 +6,7 @@ This project showcases a **Data-Driven Testing (DDT)** approach using `Selenium`
 ![Website Screenshot2](ref/Img_2.png)
 ![Website Screenshot3](ref/Img_3.png)
 ![Website Screenshot4](ref/Img_4.png)
-[![Watch the demo video](https://github.com/Only1JohnN/simple-login-automation_basic-approach/raw/main/ref/thumbnail.png)](https://youtu.be/7AdCcdn0epM?si=QbgjP_CbrCrBWdkN)
+[![Watch the demo video](https://github.com/Only1JohnN/simple-login-automation_basic-approach/raw/main/ref/thumbnail.png)](#)
 
 ## Prerequisites
 
@@ -39,7 +39,7 @@ This project utilizes **Data-Driven Testing (DDT)** with the `@pytest.mark.param
 ## Folder Structure
 
 ```
-selenium_pytest_project/
+simple-login-automation_DDT-approach/
 │
 ├── tests/                  # Contains the test cases
 │   └── test_login.py       # Pytest test cases using Data-Driven Testing
