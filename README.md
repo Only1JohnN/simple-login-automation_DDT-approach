@@ -6,7 +6,7 @@ This project showcases a **Data-Driven Testing (DDT)** approach using `Selenium`
 ![Website Screenshot2](ref/Img_2.png)
 ![Website Screenshot3](ref/Img_3.png)
 ![Website Screenshot4](ref/Img_4.png)
-[![Watch the demo video](https://github.com/Only1JohnN/simple-login-automation_basic-approach/raw/main/ref/thumbnail.png)](#)
+[![Watch the demo video](https://github.com/Only1JohnN/simple-login-automation_basic-approach/raw/main/ref/thumbnail.png)](https://youtu.be/TSmiWM8m0mw?si=IXYvcleOSsW7HeT-)
 
 ## Prerequisites
 
